@@ -3,7 +3,7 @@ Shadow is a simple yet stunning service built to access any website
 
 Join our [discord](https://discord.gg/yk33HZSZkU) for more links
 
-<a href="https://heroku.com/deploy?template=https://github.com/FogNetwork/Shadow"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/heroku2.svg"><img></a>
+<a href="https://heroku.com/deploy?template=https://github.com/thestankyleg451/Shadow"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/heroku2.svg"><img></a>
 <a href="https://repl.it/github/FogNetwork/Shadow"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/replit2.svg"><img></a>
 <a href="https://glitch.com/edit/#!/import/github/FogNetwork/Shadow"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/glitch2.svg"><img></a>
 
